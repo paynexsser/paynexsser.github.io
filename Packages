@@ -1,0 +1,14 @@
+Package: com.payne.Fileball
+Version: 0.1-1
+Architecture: iphoneos-arm
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/com.payne.Fileball_0.1-1_iphoneos-arm.deb
+Size: 347478
+MD5sum: ac8d7fdb0c78509fec51568dc16d382a
+SHA1: 0b1a168f0bc2addf6a75a6b5f3ea6be0c8aba493
+SHA256: b4d6451d5aa25c1013d17011feade35e1cb84a7f1766e80f9c32b52c772d8867
+Section: System
+Priority: optional
+Author: Pay Ne
+Name: Fileball
+
