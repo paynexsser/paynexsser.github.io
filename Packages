@@ -1,3 +1,91 @@
+Package: cn.payne.JSBox
+Version: 0.1-1
+Architecture: iphoneos-arm
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/cn.payne.JSBox_0.1-1_iphoneos-arm.deb
+Size: 62538
+MD5sum: 872ddf587b20c12d08c403d6e5b4f143
+SHA1: a490ee11a2d221dc9617cd833101e6fffd3ae4a8
+SHA256: 56d9c33c3767f5cec6296f106fcc0c4e395330e9437635e18e3a6e08b44f50d4
+Section: System
+Priority: optional
+Author: Pay Ne
+Name: JSBox
+
+Package: cn.payne.Stay
+Version: 0.1-1
+Architecture: iphoneos-arm
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/cn.payne.Stay_0.1-1_iphoneos-arm.deb
+Size: 12220
+MD5sum: 8350ae64a3dd20520ae76ec02de1091a
+SHA1: 1d2aaf178053be7fd52302e61ffc07061ecba1e5
+SHA256: e7cb2d113b6418cf27ec23cf061fad6852f445c1a9105723ce23a56f860e2484
+Section: System
+Priority: optional
+Author: Pay Ne
+Name: Stay
+
+Package: cn.payne.Varlens
+Version: 0.1-1
+Architecture: iphoneos-arm
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/cn.payne.Varlens_0.1-1_iphoneos-arm.deb
+Size: 3508
+MD5sum: bdfab580e82a1e18bb17a1f87f3dd957
+SHA1: 4e5675def00fc6a29608b722a8402bcf745e0047
+SHA256: ebc916833e036aa4ec63fa51e5316987a44eaa664e679a87d7c9ae8ca4f1fc6d
+Section: System
+Priority: optional
+Author: Pay Ne
+Name: Varlens
+
+Package: cn.payne.ltsst
+Version: 0.1-1
+Architecture: iphoneos-arm
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/cn.payne.ltsst_0.1-1_iphoneos-arm.deb
+Size: 13278
+MD5sum: b8ce347fc378eab68c5b6cb47b4921a7
+SHA1: ac81afd63c69c68ed1097dc7fe433752fef6c429
+SHA256: 321fcb87e671d8ad72730b4d3e9f8b46f485f58e111b0dde5d549ba9f63d88bd
+Section: System
+Priority: optional
+Author: Pay Ne
+Name: ltsst
+
+Package: cn.payne.pytopatch
+Version: 0.0.1-2+debug
+Architecture: iphoneos-arm
+Maintainer: Pay Ne
+Installed-Size: 200
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/cn.payne.pytopatch_0.0.1-2+debug_iphoneos-arm.deb
+Size: 7296
+MD5sum: e103cc1e312317ae130308a74dd98cdf
+SHA1: eea0555b4a9413e9f41e3bad22dbf72d492f4905
+SHA256: 2a80bad74e85413c184b8912e1ce2e87c22efadde031a5a90cd184d36f576c2d
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: Pay Ne
+Name: PytoPatch
+
+Package: cn.payne.termius
+Version: 0.0.1-60+debug
+Architecture: iphoneos-arm
+Maintainer: Pay Ne
+Installed-Size: 188
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/cn.payne.termius_0.0.1-60+debug_iphoneos-arm.deb
+Size: 22916
+MD5sum: 86d11a0886f71a039b296cd19ff8150c
+SHA1: fcd45571aec04f3c40e7f4b2b26c9068e80fedff
+SHA256: e848cd3650447232454cf58d5566f1fd2ba9068ec1a530215707f39fadf1bc96
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: Pay Ne
+Name: TermiusPatch
+
 Package: com.payne.Fileball
 Version: 0.1-1
 Architecture: iphoneos-arm
@@ -11,4 +99,48 @@ Section: System
 Priority: optional
 Author: Pay Ne
 Name: Fileball
+
+Package: com.payne.StormSniffer
+Version: 0.1-1
+Architecture: iphoneos-arm
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/com.payne.StormSniffer_0.1-1_iphoneos-arm.deb
+Size: 5426
+MD5sum: d5ab281778ac56b6194b929499852b0c
+SHA1: c2a774a7251e55382c21b1a7ad86f6af62230e76
+SHA256: 29c4967234e86b42461627d2e54182100e52ecf822b5588de2871c8e67d6e880
+Section: System
+Priority: optional
+Author: Pay Ne
+Name: StormSniffer
+
+Package: com.payne.WorkingCopyHack
+Version: 0.1-1
+Architecture: iphoneos-arm
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/com.payne.WorkingCopyHack_0.1-1_iphoneos-arm.deb
+Size: 11844
+MD5sum: ab556e8971285d70324cdd9df8d0cd6e
+SHA1: 5ebc256723a45eaaa3079edb20292ec08fae6b5a
+SHA256: f73baec4e39bcc5f8ee5e1cee0c0d1e40bc14c5396e4480e505bb9e3f65f26fd
+Section: System
+Priority: optional
+Author: Pay Ne
+Name: WorkingCopyHack
+
+Package: moe.misty.surge4-advanced
+Version: 0.0.3-1+rootful
+Architecture: iphoneos-arm
+Maintainer: misty
+Installed-Size: 224
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/moe.misty.surge4-advanced_0.0.3-1+rootful_iphoneos-arm.deb
+Size: 20542
+MD5sum: ed23e75ae547476025cd45a8cf1cd559
+SHA1: 0dfe7e10a74ee1f455b40741c444514a1076638c
+SHA256: b53d05f08795e6f6ff38de7548ab530f46640c0647fbdab303273281b8ac2d27
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: misty
+Name: Surge4Advanced
 
